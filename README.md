@@ -1,6 +1,6 @@
 # FreeCodeCamp-Data_Analytics_python
 
-This respository consists my personal solutions to the Scientific Computing with Python Certification projects.
+This respository consists my personal solutions to the Data Analysis with Python Certification projects.
 
  - Mean-Variance-Standard Deviation Calculator
  - Demographic Data Analyzer
