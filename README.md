@@ -1,4 +1,4 @@
-# FreeCodeCamp-Data_Analytics_python
+# FreeCodeCamp - Data Analysis with Python
 
 This respository consists my personal solutions to the Data Analysis with Python Certification projects.
 
